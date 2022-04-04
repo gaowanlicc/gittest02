@@ -6,5 +6,6 @@ public class gittest02 {
         System.out.println("今天心情还可以");
         System.out.println("她理我了");
         System.out.println("hot-fix02");
+         System.out.println("hot-fix03");
     }
 }
